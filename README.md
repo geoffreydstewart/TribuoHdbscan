@@ -8,7 +8,7 @@ An implementation of the HDBSCAN* clustering algorithm has been made in Tribuo [
 
 A tutorial describing how to use Tribuo Hdbscan is available [here](https://tribuo.org/learn/4.3/tutorials/clustering-hdbscan-tribuo-v4.html).
 
-The Tribuo Hdbscan implementation is a complete, functional research project, and the code is included in the Tribuo code base. [Tribuo github](https://github.com/oracle/tribuo). These notebooks are up-to-date with the 4.3 release of Tribuo and there are no major enhancements planned for Tribuo Hdbscan in the forseeable future.
+The Tribuo Hdbscan implementation is a complete, functional research project, and the code is included in the Tribuo code base. [Tribuo github](https://github.com/oracle/tribuo). These notebooks are up-to-date with the 4.3.0 release of Tribuo and there are no major enhancements planned for Tribuo Hdbscan in the forseeable future. The version of the Python module hdbscan used throughout these comparisons is 0.8.27. For the versions of these notebooks used in the published article mentioned above, use this [tag.](https://github.com/geoffreydstewart/TribuoHdbscan/tree/thesis)
 
 
 [1] Stewart  G, Al-Khassaweneh M. An Implementation of the HDBSCAN* Clustering Algorithm. Applied Sciences. 2022; 12(5):2405.
